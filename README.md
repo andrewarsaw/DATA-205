@@ -7,4 +7,4 @@ This repository is a space to showcase my progress with my capstone project part
 
 ## Project Updates
 
-- 
+- [Update 1](AWarsaw_ABSBuyingPatternsCapstoneProject.qmd) : This update showcases my current progress with my capstone project including ingesting the data and all present EDA. If you would also like to observe the most recent updates rendered onto my RPubs account, you can locate that [here](https://rpubs.com/wasraw/1365662)
